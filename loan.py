@@ -26,7 +26,7 @@ from sklearn.metrics import accuracy_score
 
 
 import pandas as pd     
-df=pd.read_csv(r"D:\New folder\train.csv")
+df=pd.read_csv(r"train.csv")
 print(df)
 
 
